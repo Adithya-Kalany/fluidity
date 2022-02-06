@@ -1,5 +1,8 @@
 ![logo](https://github.com/PrettyCoffee/fluidity/blob/main/public/logo192.png)
 
+# Fork.
+This is my personal fork with my config, nothing else.
+
 # Fluidity - An accordion based startpage
 Here you can find the startpage I created for my browser :)
 
